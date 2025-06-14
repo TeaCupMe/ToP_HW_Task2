@@ -10,7 +10,7 @@ Purpose: Serves as an accessible digital archive ensuring long-term preservation
 Usage: Intended for research, education, and cultural continuity – commercial use may require permissions.
 
 # Notes
-File integrity is verified via checksum (SHA-256) in img-task-1.jpeg.sha256.
+File integrity is verified via checksum (SHA-256) in img-task-1.jpg.sha256.
 
 Contribution: Community insights regarding historical context or translations are welcomed.
 
